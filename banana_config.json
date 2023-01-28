@@ -1,0 +1,6 @@
+{
+  "name": "BERT base model (uncased)",
+  "category": "Natural Language",  "example_input": {"prompt": "Paris is the [MASK] of France."},
+  "example_output": {"score":0.997580885887146,"token":3007,"token_str":"capital","sequence":"paris is the capital of france"},{"score":0.0004168384475633502,"token":2415,"token_str":"center","sequence":"paris is the center of france"},{"score":0.00034646946005523205,"token":2103,"token_str":"city","sequence":"paris is the city of france"},{"score":0.00030853183125145733,"token":2540,"token_str":"heart","sequence":"paris is the heart of france"},{"score":0.0002590023505035788,"token":2803,"token_str":"centre","sequence":"paris is the centre of france"}},
+  "version": "1"
+}
